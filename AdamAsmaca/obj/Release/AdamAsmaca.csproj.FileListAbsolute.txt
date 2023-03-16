@@ -1,0 +1,14 @@
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\bin\Release\AdamAsmaca.exe.config
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\bin\Release\AdamAsmaca.exe
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\bin\Release\AdamAsmaca.pdb
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.csproj.AssemblyReference.cache
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.csproj.SuggestedBindingRedirects.cache
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.FormAnasayfa.resources
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.FormLogin.resources
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.FormPuanDurumu.resources
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.FormYeniUye.resources
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.Properties.Resources.resources
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.csproj.GenerateResource.cache
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.exe
+C:\Develop\Git\Temel_Programlam_Cem_Hoca\AdamAsmaca\obj\Release\AdamAsmaca.pdb
